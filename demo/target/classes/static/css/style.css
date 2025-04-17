@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.btn-outline-secondary,
+.btn-outline-success,
+.btn-outline-warning {
+    margin: 5px;
+}
