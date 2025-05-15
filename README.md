@@ -87,7 +87,7 @@ src/
 | Pilar | Penjelasan | Contoh di Project |
 |-------|------------|-------------------|
 | **1. Encapsulation (Enkapsulasi)** | Menyembunyikan detail internal dan hanya mengekspos bagian penting melalui getter/setter. | Field di `ToDo`, `User`, dan `SubTask` bersifat private, diakses melalui getter/setter. |
-| **2. Inheritance (Pewarisan)** | Satu class dapat mewarisi atribut dan metode dari class lain. | Kalau kamu buat class service yang extend class base service, itu contoh pewarisan. (Belum langsung digunakan di proyek ini tapi konsepnya familiar dalam Spring melalui pewarisan framework class) |
+| **2. Inheritance (Pewarisan)** | Satu class dapat mewarisi atribut dan metode dari class lain. | (Belum langsung digunakan di proyek ini tapi konsepnya familiar dalam Spring melalui pewarisan framework class) |
 | **3. Polymorphism (Polimorfisme)** | Satu fungsi/objek bisa memiliki banyak bentuk tergantung konteksnya. | Contohnya: Override method `loadUserByUsername()` di `CustomUserDetailsService` untuk login. |
 | **4. Abstraction (Abstraksi)** | Menyembunyikan kompleksitas dan menampilkan antarmuka yang sederhana. | Interface `UserService`, `ToDoRepository`, dan `SubTaskRepository` hanya mendeklarasikan kontrak — implementasinya disembunyikan. |
 
