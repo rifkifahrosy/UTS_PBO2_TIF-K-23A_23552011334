@@ -1,7 +1,6 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f9f9f9;
 }
 
 ul {
@@ -15,11 +14,4 @@ li {
 
 .completed {
     text-decoration: line-through;
-    color: #999;
-}
-
-.btn-outline-secondary,
-.btn-outline-success,
-.btn-outline-warning {
-    margin: 5px;
 }
