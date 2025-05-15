@@ -93,6 +93,6 @@ src/
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">https://github.com/rifkifahrosy/UTS_PBO2_TIF-K-23A_23552011334.git</a></li>
-  <li>GDrive: <a href="">https://drive.google.com/drive/folders/1x088IMgL2PndzDSnr4SFrKrnG5oPciIt?usp=drive_link</a></li>
+  <li>Github: https://github.com/rifkifahrosy/UTS_PBO2_TIF-K-23A_23552011334.git
+  <li>GDrive: https://drive.google.com/drive/folders/1x088IMgL2PndzDSnr4SFrKrnG5oPciIt?usp=drive_link
 </ul>
